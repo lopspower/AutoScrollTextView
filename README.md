@@ -6,6 +6,20 @@ Sample Android application show how to set auto scroll in text view in android.
 Usage
 -----
 
+To make a auto scroll in your text view, you must use the following properties in your XML.
+
+Properties:
+* `ellipsize`
+* `focusable`
+* `focusableInTouchMode`
+* `marqueeRepeatLimit`
+* `scrollHorizontally`
+* `singleLine`
+
+
+XML
+-----
+
 ```xml
 <TextView
     android:layout_width="wrap_content"
