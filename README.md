@@ -1,7 +1,7 @@
-Auto-Scroll-Text-View
+AutoScrollTextView
 =====================
 
-Android application - This example will show how to set auto scroll in text view in android.
+Sample Android application show how to set auto scroll in text view in android.
 
 Usage
 -----
