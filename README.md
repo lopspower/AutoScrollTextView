@@ -39,3 +39,8 @@ Image Result
 -----
 
 ![Capture Project](http://i39.tinypic.com/2n0rdlg.png)
+
+LICENCE
+-----
+
+AutoScrollTextView by [Lopez Mikhael](http://mikhaellopez.com/) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
