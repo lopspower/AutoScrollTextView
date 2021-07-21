@@ -34,12 +34,6 @@ XML
     tools:ignore="HardcodedText" />
 ```
 
-
-Image Result
------
-
-![Capture Project](http://i39.tinypic.com/2n0rdlg.png)
-
 LICENCE
 -----
 
